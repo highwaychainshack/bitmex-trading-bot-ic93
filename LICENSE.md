@@ -1,4 +1,4 @@
-# 
+# Enhance your trading with new bitmex trading bot Executor | cross-margin + trailing-stop, the #1 bitmex trading bot. Includes cross-margin and trailing-stop for a smoother and
 
 
 
